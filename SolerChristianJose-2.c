@@ -6,7 +6,7 @@
 #define TRUE 0
 #define FALSE -1
 
-// </b> José Soler Practica 2
+// Practica 2
 
 void hilbert(int n, double** a);
 void identitat_p(int n, double** a, double p);

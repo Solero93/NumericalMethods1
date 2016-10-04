@@ -6,7 +6,6 @@
 #define TRUE 0
 #define FALSE -1
 
-//</b> JoséSoler
 // Examen de MNU1
 // Exercici 1
 

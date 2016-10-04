@@ -1,7 +1,4 @@
-/*</b> JOSE SOLER
-Practica 2: Errors
-
-*/
+// Practica 2: Errors
 
 #include <stdio.h>
 #include <math.h>
